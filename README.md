@@ -1,4 +1,4 @@
-# Repositorio-Estadistica
+# Repositorio-Estadística
 
 Cuaderno público de investigaciones estadísticas: análisis reproducibles en **R** y **Python**, informes en **R Markdown/PDF**, apuntes metodológicos y resúmenes de lo aprendido. Todo con datos abiertos, código comentado y conclusiones claras. Es a la vez portafolio y diario de aprendizaje en estadística.
 
