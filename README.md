@@ -51,6 +51,3 @@ Cada dataset se cita con su fuente, URL exacta, fecha de descarga y licencia, y 
 
 R · R Markdown · Python · Jupyter / Google Colab · Git y GitHub
 
-## Sugerencias y comentarios
-
-Si encuentras algún error o tienes una propuesta de mejora, puedes abrir un *issue* en este repositorio.
