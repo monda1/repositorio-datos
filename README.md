@@ -1,0 +1,1 @@
+Cuaderno público de investigaciones estadísticas: análisis reproducibles en R y Python, informes en R Markdown/PDF, apuntes metodológicos y resúmenes de lo aprendido. Datos abiertos, código comentado y conclusiones claras. Portafolio y diario de aprendizaje en Estadística y Ciencia de Datos.
