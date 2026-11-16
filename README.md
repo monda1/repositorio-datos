@@ -44,8 +44,7 @@ Cada dataset se cita con su fuente, URL exacta, fecha de descarga y licencia, y 
 
 - Cada investigación tiene su propio `README.md` con la pregunta, los datos usados, el método y las conclusiones.
 - Las dependencias se declaran con `renv` (R) o `requirements.txt` (Python).
-- Los datos originales se conservan intactos y toda la limpieza se hace mediante código, nunca a mano.
-- Los informes se generan a partir del código con R Markdown, de modo que los resultados siempre coinciden con el análisis.
+- Las memorias se generan a partir del código con R Markdown, de modo que los resultados siempre coinciden con el análisis.
 
 ## Herramientas
 
